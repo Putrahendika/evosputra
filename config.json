@@ -1,0 +1,19 @@
+{
+    "ownerNumber": ["6285359266486@s.whatsapp.net",""],
+    "ownerName": "HAMZY STORE",
+    "instagram" : "https://instagram.com/",
+    "botName": "HamzyBotz ",
+    "footer": "Botwa",
+    "sessionName": "session",
+    "pathimg": "./media/Haruka.jpg",
+    "BotKey": "V12",
+    "auto_welcomeMsg": true,
+    "auto_leaveMsg": true,    
+    "autobio": true,
+    "gamewaktu": 90,
+    "limitCount": 25,
+    "gcount": {
+        "prem": 1000,
+        "user": 15
+    }
+}
